@@ -5,6 +5,6 @@
 ## 运行方法
 使用gitclone或是直接下载，下载完后直接在cocos打开就可以运行，注意有些版本可能无法兼容。
 以下是一些游戏画面：
-<img src="2025-05-19 111335.png"  width="512" height="512">
-<img src="2025-05-19 111349.png"  width="512" height="512">
-<img src="2025-05-19 111349.png"  width="512" height="512">
+<img src="2025-05-19 112832.png"  width="512" >
+<img src="2025-05-19 111335.png"  width="512" >
+<img src="2025-05-19 111349.png"  width="512" >
